@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ahmet @ahmetyusuf1. I enjoy doing new projects and developing creative ideas.
-- 👀 I’m interested in Software Development, Front-end Development and React Development.
+- 👋 Hi, I’m Ahmet @ahmetyusuf1. I am a software developer. I enjoy doing new projects and developing creative ideas.
+- 👀 I’m interested in Science, Technology, Software Development, Front-end Development and React Development.
 - 🌱 I’m currently learning HTML, CSS, Javascript, React and Typescript.
 - 💞️ 
 

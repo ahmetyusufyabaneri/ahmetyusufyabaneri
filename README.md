@@ -3,7 +3,7 @@
 <ul>💻 I’m currently focusing on React.</ul>
 <ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe I can achieve great things.</ul>
 
-<h2 align="center">My Skills</h2>
+<h1 align="center">Languages and Tools</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;

@@ -3,5 +3,3 @@
 <ul>💻 I’m currently learning HTML, CSS, JavaScript, React and Typescript.</ul>
 <ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe I can achieve great things.</ul>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-

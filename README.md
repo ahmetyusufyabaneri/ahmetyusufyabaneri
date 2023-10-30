@@ -1,9 +1,10 @@
-<ul>👋 Hi, I’m Ahmet @ahmetyusuf1. I'm a software developer. I enjoy doing new projects and developing creative ideas.</ul>
-<ul>👀 Technology, Science, Software Development, Front-end Development and React Development are my interested areas.</ul>
-<ul>💻 I’m currently focusing on React.</ul>
+<h1 align="center">👋 Hi there, I'm Ahmet Yusuf.</h1>
+<h3 align="center">💻 I'm a software developer.</h3>
+<ul>🎯 I’m currently focusing on React.</ul>
+<ul>🔭 Technology, Science, Software Development and Front-end Development are my interested areas.</ul>
 <ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe I can achieve great things.</ul>
 
-<h1 align="center">Languages and Tools</h1>
+<h2 align="center">Languages and Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>&nbsp;

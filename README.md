@@ -2,7 +2,7 @@
 <h3 align="center">💻 I'm a software developer.</h3>
 <ul>🎯 I’m currently focusing on React.</ul>
 <ul>🔭 Technology, Science and Software Development are my interested areas.</ul>
-<ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe I can achieve great things.</ul>
+<ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</ul>
 <ul>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</ul>
 
 <h2 align="center">Languages and Tools</h2>

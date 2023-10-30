@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Ahmet Yusuf.</h1>
 <h3 align="center">💻 I'm a software developer.</h3>
 <ul>🎯 I’m currently focusing on React.</ul>
-<ul>🔭 Technology, Science, Software Development and Front-end Development are my interested areas.</ul>
+<ul>🔭 Technology, Science and Software Development are my interested areas.</ul>
 <ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe I can achieve great things.</ul>
 
 <h2 align="center">Languages and Tools</h2>

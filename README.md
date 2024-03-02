@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Ahmet Yusuf.</h1>
+
 <h3 align="center">I'm a software developer.</h3>
-<ul>🎯 I’m currently focusing on Front-End Development.</ul>
-<ul>🔭 Technology, Science and Software Development are my interested areas.</ul>
-<ul>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</ul>
-<ul>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</ul>
+
+<ul>
+  <li>🎯 I’m currently focusing on Front-End Development.</li>
+  <li>🔭 Technology, Science and Software Development are my interested areas.</li>
+  <li>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</li>
+  <li>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</li>
+</ul>
 
 <h2 align="center">💻 Languages and Tools 🛠️</h2>
 

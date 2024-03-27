@@ -3,7 +3,7 @@
 <h3 align="center">I'm a software developer.</h3>
 
 <ul>
-  <li>🎯 I’m currently focusing on Front-End Development.</li>
+  <li>🎯 I’m currently focusing on React.</li>
   <li>🔭 Technology, Science and Software Development are my interested areas.</li>
   <li>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</li>
   <li>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</li>

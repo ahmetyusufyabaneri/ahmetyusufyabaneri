@@ -4,8 +4,11 @@
 
 <ul>
   <li>🎯 I’m currently focusing on React, React Native and Node.js</li>
+  <br/>
   <li>🔭 Technology, Science and Software Development are my interested areas.</li>
+  <br/>
   <li>💞️ I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</li>
+  <br/>
   <li>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</li>
 </ul>
 

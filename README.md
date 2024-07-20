@@ -4,7 +4,7 @@
 <br/>
 
 <ul>
-  <li>🎯 I’m currently focusing on React, React Native and Node.js</li>
+  <li>🎯 I’m currently focusing on React, React Native and Node.js.</li>
   <br/>
   <li>🔭 Technology, Science and Software Development are my interested areas.</li>
   <br/>

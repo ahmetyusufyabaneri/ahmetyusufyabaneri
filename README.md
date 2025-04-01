@@ -34,7 +34,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="28" height="28"/>&nbsp;
 </div>
 
-<div align="center" style="margin: 100;">
+<br/>
+
+<div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="28" height="28"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="28" height="28"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28"/>&nbsp;

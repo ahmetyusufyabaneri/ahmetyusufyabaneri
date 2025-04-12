@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Ahmet Yusuf</h1>
 
-
-<br/>
-
 <ul>
   <li>🎯 I’m currently focusing on React, React Native and Node.js.</li>
   <br/>

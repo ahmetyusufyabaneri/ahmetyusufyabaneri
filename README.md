@@ -10,7 +10,7 @@
   <li>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</li>
 </ul>
 
-<h2 align="center">💻 Languages and Tools 🛠️</h2>
+<h2 align="center">💻 Tech Stack 🛠️</h2>
 <br/>
 
 <div align="center">

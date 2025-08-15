@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Ahmet</h1>
 
 <ul>
-  <li>🎯 I’m currently focusing on React, React Native and Node.js.</li>
+  <li>🎯 I’m currently focusing on React, React Native and Node.js. technologies.</li>
   <br/>
   <li>🔭 Technology, science and software development are my interested areas.</li>
   <br/>

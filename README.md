@@ -1,13 +1,17 @@
 <h1 align="center">👋 Hi there, I'm Ahmet</h1>
 
 <ul>
-  <li>🎯 I’m currently focusing on MERN stack technologies.</li>
+  <li>🎯 Currently focused on Full Stack Development, primarily working with the MERN(MongoDB, Express.js, React, Node.js) Stack.</li>
   <br/>
-  <li>🔭 Technology, science and software development are my interested areas.</li>
+  <li>💻 Passionate about software development, technology, and building modern web applications.</li>
   <br/>
-  <li>💻 I'm someone who is passionate about software and loves to create and develop new projects. I love teamwork and believe we can achieve great things with my team.</li>
+  <li>🚀 Always excited to turn ideas into real-world projects while continuously improving my development skills.</li>
+  <br>
+  <li>⚙️ Focused on writing clean, maintainable and scalable code while improving my understanding of software architecture.</li>
   <br/>
-  <li>⚡ I'm progressing on software development as a highly motivated, disciplined and determined person.</li>
+  <li>🤝 Teamwork and collaboration are important to me, especially when it comes to learning, sharing knowledge and building better solutions together.</li>
+  <br/>
+  <li>⚡ Motivated, disciplined, and always eager to explore new technologies and take on new challenges.</li>
 </ul>
 
 <h2 align="center">💻 Tech Stack 🛠️</h2>
